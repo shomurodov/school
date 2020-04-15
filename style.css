@@ -1,0 +1,12 @@
+body{
+	margin: 0;
+	background-color: #0f0920;
+	color: white;
+}
+.eightclass{
+	text-align: center;
+	font-size: 18px;
+	background: #dddddd;
+	color: #0060ff;
+	height: 800px;
+}
